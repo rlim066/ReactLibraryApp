@@ -1,0 +1,56 @@
+[
+  {
+    "Title": "Lord of The Flies",
+    "Year": "1954",
+    "Author": "William Golding",
+    "Cover": "N/A",
+    "Type": "Novel",
+    "Genre": "Fiction"
+  },
+
+  {
+    "Title": "Charlie & The Chocolate Factory",
+    "Year": "1964",
+    "Author": "Roald Dahl",
+    "Cover": "N/A",
+    "Type": "Novel",
+    "Genre": "Fiction"
+  },
+
+  {
+    "Title": "The Lorax",
+    "Year": "1971",
+    "Author": "Dr Seuss",
+    "Cover": "N/A",
+    "Type": "Novel",
+    "Genre": "Fiction"
+  },
+
+  {
+    "Title": "The Fault in Our Stars",
+    "Year": "2012",
+    "Author": "John Green",
+    "Cover": "N/A",
+    "Type": "Novel",
+    "Genre": "Fiction"
+  },
+
+  {
+    "Title": "The Anthroprocene Reviewed",
+    "Year": "2021",
+    "Author": "John Green",
+    "Cover": "N/A",
+    "Type": "Novel",
+    "Genre": "Non-Fiction"
+  },
+
+  {
+    "Title": "7 Habits of Highly Effective People",
+    "Year": "1988",
+    "Author": "Stephen R. Covey",
+    "Cover": "N/A",
+    "Type": "Novel",
+    "Genre": "Non-Fiction"
+  }
+  
+]
