@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "Title": "Lord of The Flies",
     "Year": "1954",
     "Author": "William Golding",
@@ -9,6 +10,7 @@
   },
 
   {
+    "id": 2,
     "Title": "Charlie & The Chocolate Factory",
     "Year": "1964",
     "Author": "Roald Dahl",
@@ -18,6 +20,7 @@
   },
 
   {
+    "id": 3,
     "Title": "The Lorax",
     "Year": "1971",
     "Author": "Dr Seuss",
@@ -27,6 +30,7 @@
   },
 
   {
+    "id": 4,
     "Title": "The Fault in Our Stars",
     "Year": "2012",
     "Author": "John Green",
@@ -36,6 +40,7 @@
   },
 
   {
+    "id": 5,
     "Title": "The Anthroprocene Reviewed",
     "Year": "2021",
     "Author": "John Green",
@@ -45,6 +50,7 @@
   },
 
   {
+    "id": 6,
     "Title": "7 Habits of Highly Effective People",
     "Year": "1988",
     "Author": "Stephen R. Covey",
