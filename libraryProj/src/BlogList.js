@@ -30,9 +30,9 @@ NEED TO USE THE setBlogs within the state to update
 
         {blogs.map((blog) => (
           <div className="blog-preview" key={blog.id}> 
-            <h2>{blog.Title}</h2>
+            <h2>{blog.title}</h2>
             <Link to={`/books/${blog.id}`}>
-            <p>Book Author: {blog.Author}</p>
+            <p>Book Author: {blog.author}</p>
             {/*Wrap it in an annon fn so that we can pass an arg in */}
             </Link>
 

@@ -3,6 +3,7 @@ import Home from './Home';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import AddBook from './AddBook';
 import BlogDetails from './BlogDetails';
+import Create from './Create';
 
 function App() {
   return (
@@ -27,6 +28,10 @@ function App() {
 
           <Route path="/books/:id">
               <BlogDetails />
+          </Route>
+
+          <Route path="/create">
+            <Create/>
           </Route>
 
         </Switch>
